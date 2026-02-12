@@ -1,4 +1,6 @@
-# Keon Systems — Governance Substrate for Operational AI
+# Keon Systems — Cryptographically Governed AI Execution (CGAE)
+
+Governance Substrate for Operational AI
 
 Law before power. Proof before trust.
 
