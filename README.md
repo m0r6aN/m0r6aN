@@ -1,7 +1,1 @@
-Building governed AI execution systems.
-
-Founder @Keon-Systems | Architect @omega-brands
-
-Making AI provable through cryptographic governance.
-
----
+Architect of the Keon Pantheon. Building the Governance Layer for AI at @Keon-Systems. Orchestrating Intelligence at @omega-brands.
