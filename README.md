@@ -1,4 +1,9 @@
-Architect of Keon Systems, the Governance Layer for AI, and O.M.E.G.A (Orchestrated Multi-Expert Governed Agents) 
+Architect of Keon — governance for autonomous AI.
+Creator of O.M.E.G.A. — Orchestrated Multi-Expert Governed Agents
 
-Building at @keon-systems. Orchestrating Intelligence at @omega-brands. End-to-end proof of governance with https://forgepilot.ai and https://silentapply.ai
+**Building at @keon-systems.**
+**Launching governed AI platforms at @omega-brands.**
 
+Real systems. Real receipts.
+- https://forgepilot.ai
+- https://silentapply.ai
